@@ -38,5 +38,17 @@ O(n)
 ## Stock Picker
 Implement a method #stock_picker that takes in an array of stock prices, one for each hypothetical day. It should return a pair of days representing the best day to buy and the best day to sell. Days start at 0.
 
+### Input
+array
+
+### Output
+array
+
+### Time Complexity
+O(n^2)
+
+### Space Complexity
+O(1)
+
 ## Bubble Sort
 Build a method #bubble_sort that takes an array and returns a sorted array.
