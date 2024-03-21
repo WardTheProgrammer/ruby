@@ -52,3 +52,17 @@ O(1)
 
 ## Bubble Sort
 Build a method #bubble_sort that takes an array and returns a sorted array.
+
+### Input
+array
+
+### Output
+array
+
+### Time Complexity
+Best: O(n)
+Average: O(n^2)
+Worst: O(n^2)
+
+### Space Complexity
+O(1)
