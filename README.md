@@ -1,9 +1,9 @@
 # ruby
 
-1. [Caesar Cipher] (## Caesar Cipher)
-2. [Substrings] (## Substrings)
-3. [Stock Picker] (## Stock Picker)
-4. [Bubble Sort] (## Bubble Sort)
+1. [Caesar Cipher](## Caesar Cipher)
+2. [Substrings](## Substrings)
+3. [Stock Picker](## Stock Picker)
+4. [Bubble Sort](## Bubble Sort)
 
 ## Caesar Cipher
 Implement a caesar cipher that takes in a string and the shift factor and then outputs the modified string.
